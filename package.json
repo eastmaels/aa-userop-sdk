@@ -41,5 +41,6 @@
     "elliptic": "^6.5.4",
     "ethers": "^5.7.2",
     "js-base64": "^3.7.5"
-  }
+  },
+  "packageManager": "yarn@3.8.7"
 }
